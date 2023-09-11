@@ -1,6 +1,6 @@
 AUTHOR = 'Pelican'
 SITENAME = 'Pelican Site'
-SITEURL = '/pelican-site'
+SITEURL = ''
 
 PATH = 'content'
 
